@@ -1,0 +1,12 @@
+{
+  "name": "disney-wait-recorder",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "influx": "^5.0.7",
+    "themeparks": "^4.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
